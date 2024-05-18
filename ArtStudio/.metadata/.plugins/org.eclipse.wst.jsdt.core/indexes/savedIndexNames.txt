@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+G:\TYBBACA\ArtStudio\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+1386883809.index
+3950903756.index
+600193169.index
+1047947723.index
+2879691609.index
+10441755.index

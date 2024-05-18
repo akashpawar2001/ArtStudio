@@ -1,0 +1,6 @@
+INDEX VERSION 1.131+G:\TYBBACA\ArtStudio\.metadata\.plugins\org.eclipse.jdt.core
+3948281958.index
+1561031525.index
+2879691609.index
+1865797976.index
+1897175475.index
